@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\git\Exam\GB_Exam\bin\Debug\net6.0\GB_Exam.exe
+C:\Users\User\Desktop\git\Exam\GB_Exam\bin\Debug\net6.0\GB_Exam.deps.json
+C:\Users\User\Desktop\git\Exam\GB_Exam\bin\Debug\net6.0\GB_Exam.runtimeconfig.json
+C:\Users\User\Desktop\git\Exam\GB_Exam\bin\Debug\net6.0\GB_Exam.dll
+C:\Users\User\Desktop\git\Exam\GB_Exam\bin\Debug\net6.0\GB_Exam.pdb
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\GB_Exam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\GB_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\GB_Exam.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\GB_Exam.AssemblyInfo.cs
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\GB_Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\GB_Exam.dll
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\refint\GB_Exam.dll
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\GB_Exam.pdb
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\GB_Exam.genruntimeconfig.cache
+C:\Users\User\Desktop\git\Exam\GB_Exam\obj\Debug\net6.0\ref\GB_Exam.dll
