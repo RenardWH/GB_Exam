@@ -19,13 +19,13 @@ for (int i = 0; i < size; i++)
     }
 }
 string [] resultArray = new string [sizeResultArray];
-int Counter = 0;
+int counter = 0;
 for (int i = 0; i < size; i++)
 {
     if(array[i].Length <4)
     {
-        resultArray[Counter] = array[i];
-        Counter++;
+        resultArray[counter] = array[i];
+        counter++;
     }
 }
 Console.WriteLine("Массив из слов, длина которых меньше, либо равна 3 символам ");
